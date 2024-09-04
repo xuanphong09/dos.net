@@ -1,0 +1,10 @@
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\bin\Debug\Tinh_tien_cong_dich_vu_nha_khoa.exe.config
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\bin\Debug\Tinh_tien_cong_dich_vu_nha_khoa.exe
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\bin\Debug\Tinh_tien_cong_dich_vu_nha_khoa.pdb
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.csproj.AssemblyReference.cache
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.Form1.resources
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.Properties.Resources.resources
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.csproj.GenerateResource.cache
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.csproj.CoreCompileInputs.cache
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.exe
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Tinh_tien_cong_dich_vu_nha_khoa\obj\Debug\Tinh_tien_cong_dich_vu_nha_khoa.pdb

@@ -1,0 +1,10 @@
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\bin\Debug\Security_Panell.exe.config
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\bin\Debug\Security_Panell.exe
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\bin\Debug\Security_Panell.pdb
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.csproj.AssemblyReference.cache
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.Form1.resources
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.Properties.Resources.resources
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.csproj.GenerateResource.cache
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.csproj.CoreCompileInputs.cache
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.exe
+E:\Phong_NET\Buổi_1\TH_Buoi_1\Security_Panell\obj\Debug\Security_Panell.pdb
