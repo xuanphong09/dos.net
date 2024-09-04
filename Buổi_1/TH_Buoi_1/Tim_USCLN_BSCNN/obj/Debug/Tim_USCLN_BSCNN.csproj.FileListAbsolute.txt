@@ -1,0 +1,10 @@
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\bin\Debug\Tim_USCLN_BSCNN.exe.config
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\bin\Debug\Tim_USCLN_BSCNN.exe
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\bin\Debug\Tim_USCLN_BSCNN.pdb
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.csproj.AssemblyReference.cache
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.Form1.resources
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.Properties.Resources.resources
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.csproj.GenerateResource.cache
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.csproj.CoreCompileInputs.cache
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.exe
+E:\laragon\www\dos.net\Buổi_1\TH_Buoi_1\Tim_USCLN_BSCNN\obj\Debug\Tim_USCLN_BSCNN.pdb

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Phong_NET\\Bu\u1ED5i_1\\TH_Buoi_1\\",
+  "WorkspaceRootPath": "E:\\laragon\\www\\dos.net\\Bu\u1ED5i_1\\TH_Buoi_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{893F0C0E-56A0-495E-B749-FAB0518A2575}|Tinh_tien_cong_dich_vu_nha_khoa\\Tinh_tien_cong_dich_vu_nha_khoa.csproj|e:\\phong_net\\bu\u1ED5i_1\\th_buoi_1\\tinh_tien_cong_dich_vu_nha_khoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893F0C0E-56A0-495E-B749-FAB0518A2575}|Tinh_tien_cong_dich_vu_nha_khoa\\Tinh_tien_cong_dich_vu_nha_khoa.csproj|solutionrelative:tinh_tien_cong_dich_vu_nha_khoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC3DDD1-3B7F-4551-AEB0-DE393E14F922}|Tim_USCLN_BSCNN\\Tim_USCLN_BSCNN.csproj|e:\\laragon\\www\\dos.net\\bu\u1ED5i_1\\th_buoi_1\\tim_uscln_bscnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC3DDD1-3B7F-4551-AEB0-DE393E14F922}|Tim_USCLN_BSCNN\\Tim_USCLN_BSCNN.csproj|solutionrelative:tim_uscln_bscnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893F0C0E-56A0-495E-B749-FAB0518A2575}|Tinh_tien_cong_dich_vu_nha_khoa\\Tinh_tien_cong_dich_vu_nha_khoa.csproj|e:\\phong_net\\bu\u1ED5i_1\\th_buoi_1\\tinh_tien_cong_dich_vu_nha_khoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{893F0C0E-56A0-495E-B749-FAB0518A2575}|Tinh_tien_cong_dich_vu_nha_khoa\\Tinh_tien_cong_dich_vu_nha_khoa.csproj|solutionrelative:tinh_tien_cong_dich_vu_nha_khoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EC3DDD1-3B7F-4551-AEB0-DE393E14F922}|Tim_USCLN_BSCNN\\Tim_USCLN_BSCNN.csproj|e:\\laragon\\www\\dos.net\\bu\u1ED5i_1\\th_buoi_1\\tim_uscln_bscnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EC3DDD1-3B7F-4551-AEB0-DE393E14F922}|Tim_USCLN_BSCNN\\Tim_USCLN_BSCNN.csproj|solutionrelative:tim_uscln_bscnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,12 +24,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Phong_NET\\Bu\u1ED5i_1\\TH_Buoi_1\\Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs",
-              "RelativeDocumentMoniker": "Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs",
-              "ToolTip": "E:\\Phong_NET\\Bu\u1ED5i_1\\TH_Buoi_1\\Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs [Design]",
-              "RelativeToolTip": "Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs [Design]",
+              "DocumentMoniker": "E:\\laragon\\www\\dos.net\\Bu\u1ED5i_1\\TH_Buoi_1\\Tim_USCLN_BSCNN\\Form1.cs",
+              "RelativeDocumentMoniker": "Tim_USCLN_BSCNN\\Form1.cs",
+              "ToolTip": "E:\\laragon\\www\\dos.net\\Bu\u1ED5i_1\\TH_Buoi_1\\Tim_USCLN_BSCNN\\Form1.cs [Design]*",
+              "RelativeToolTip": "Tim_USCLN_BSCNN\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:57:35.706Z",
+              "WhenOpened": "2024-09-04T16:23:10.232Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
             },
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Phong_NET\\Bu\u1ED5i_1\\TH_Buoi_1\\Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs",
-              "RelativeDocumentMoniker": "Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs",
-              "ToolTip": "E:\\Phong_NET\\Bu\u1ED5i_1\\TH_Buoi_1\\Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs",
-              "RelativeToolTip": "Tinh_tien_cong_dich_vu_nha_khoa\\Form1.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\laragon\\www\\dos.net\\Bu\u1ED5i_1\\TH_Buoi_1\\Tim_USCLN_BSCNN\\Form1.cs",
+              "RelativeDocumentMoniker": "Tim_USCLN_BSCNN\\Form1.cs",
+              "ToolTip": "E:\\laragon\\www\\dos.net\\Bu\u1ED5i_1\\TH_Buoi_1\\Tim_USCLN_BSCNN\\Form1.cs*",
+              "RelativeToolTip": "Tim_USCLN_BSCNN\\Form1.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:02:45.512Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-09-04T16:27:10.286Z",
               "EditorCaption": ""
             }
           ]

@@ -75,7 +75,7 @@ namespace Security_Panell
         }
         private void btn_ring_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Đã gửi yêu cầu báo động", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
         private void btn_1_Click(object sender, EventArgs e)
